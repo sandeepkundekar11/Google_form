@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Google_form/static/css/main.4ef80e68.css",
+    "main.js": "/Google_form/static/js/main.a277e69f.js",
+    "index.html": "/Google_form/index.html",
+    "main.4ef80e68.css.map": "/Google_form/static/css/main.4ef80e68.css.map",
+    "main.a277e69f.js.map": "/Google_form/static/js/main.a277e69f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ef80e68.css",
+    "static/js/main.a277e69f.js"
+  ]
+}
